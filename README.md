@@ -19,12 +19,12 @@ Each day, I post:
 
 ## 📅 Daily Progress
 
-| Day | Date       | Topic                                               | File                  |
-|-----|------------|-----------------------------------------------------|-----------------------|
-| 1   | 21/06/2025 | Data vs Information vs Knowledge vs Wisdom          | `day01-notes.md`      |
-| 2   | 21/06/2025 | What is a Computer? Components and Functions        | `day02-notes.md`      |
-| 3   | 22/06/2025 | How to represent data in computer                   | `day03-binary.md`     |
-| 4   | 23/06/2025 | CPU Speed, Memory Units, 32-bit vs 64-bit Systems   | `day04-units.md`      |
+| Day | Date       | Topic                                               | File                   |
+|-----|------------|-----------------------------------------------------|----------------------- |
+| 1   | 21/06/2025 | Data vs Information vs Knowledge vs Wisdom          | `notes/day01-notes.md` |
+| 2   | 21/06/2025 | What is a Computer? Components and Functions        | `notes/day02-notes.md` |
+| 3   | 22/06/2025 | How to represent data in computer                   | `notes/day03-binary.md`|
+| 4   | 23/06/2025 | CPU Speed, Memory Units, 32-bit vs 64-bit Systems   | `notes/day04-units.md` |
 
 *(This table will grow each day as I update my progress.)*
 
